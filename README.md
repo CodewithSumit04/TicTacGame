@@ -29,7 +29,18 @@ Is project ko in technologies ka upyog karke banaya gaya hai:
 Apne local machine par is game ko run karne ke liye in steps ko follow karen:
 
 **1. Repository Clone Karen:**
+```git clone [APKE_REPOSITORY_KA_LINK_YAHAN]```
+```cd (apka-repository-naam)```
 
-```bash
-git clone [APKE_REPOSITORY_KA_LINK_YAHAN]
-cd (apka-repository-naam)
+2. Dependencies Install Karen:
+```npm install```
+```# ya```
+```yarn install```
+
+```3. Application Shuru Karen:```
+```npm start```
+```# ya```
+```yarn start```
+
+Game aapke default browser mein ```http://localhost:3000``` par shuru ho jaega.
+[CodewithSumit04] - Main Developer
